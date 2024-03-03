@@ -26,7 +26,7 @@ const ProjectItem = ({
               width="200"
               height="200"
               alt={name}
-              className="object-cover rounded-lg border-[1px] border-GRAY_LIGHT dark:border-white border-solid w-24 h-24"
+              className="object-contain rounded-lg border-[1px] border-GRAY_LIGHT dark:border-white border-solid w-24 h-24"
             />
           )}
           <div className="flex flex-col gap-2">
